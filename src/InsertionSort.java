@@ -1,4 +1,12 @@
 
+/*
+Group 2:
+Michael Shepherd
+Tania Sajjad
+William Marchesi
+*/
+
+
 public class InsertionSort {
 
 	public static int[] sort(int[] input) {
